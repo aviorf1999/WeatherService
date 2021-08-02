@@ -1,0 +1,35 @@
+{
+  "name": "armyproject",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "@types/body-parser": "^1.17.1",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.2",
+    "@types/mongoose": "^5.5.32",
+    "@types/node": "^12.12.14",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "gulp-v3": "^3.12.1",
+    "mongoose": "^5.7.5",
+    "orchestrator": "^0.3.8",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^3.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
